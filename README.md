@@ -139,7 +139,7 @@ Result:
 
 ------------
 ## 😎 Nice to have
-- Commits per component
+- Branches per component and merged into main/master
 - Tests
 
 ------------
