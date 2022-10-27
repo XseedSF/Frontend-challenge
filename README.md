@@ -18,7 +18,7 @@ The challenge is to develop the 3 screens using Star War's public API (https://s
 ------------
 ## 💻 Technologies
 
- * React
+ * React js
  * Redux
  * Axios 
 
